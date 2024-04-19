@@ -22,7 +22,8 @@ body{
     display: grid;
     grid-template-columns: repeat(10,1fr);
     font-size: 0;
-    overflow-x: scroll;
+    overflow-x:hidden;
+    
 }
 
 .imgs{
